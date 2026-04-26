@@ -1,0 +1,6 @@
+{
+  "name": "OncoPredict AI",
+  "description": "A diagnostic support tool for breast cancer classification using AI and diagnostic measurements like cell radius, texture, and symmetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["AI Prediction", "Medical Dashboard", "Data Visualization"]
+}
